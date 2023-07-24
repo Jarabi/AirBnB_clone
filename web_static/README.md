@@ -19,4 +19,4 @@ During this project, you will learn how to manipulate HTML and CSS languages. HT
 
 ## Final Outcome
 
-![Finished AirBnb clone](https://github.com/Jarabi/AirBnB_clone/blob/main/web_static/images/AirBnb%20Clone.png)
+![Final clone] (https://github.com/Jarabi/AirBnB_clone/blob/main/web_static/images/airbnb_clone.png?raw=true)
