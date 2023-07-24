@@ -52,6 +52,7 @@ section.filters .amenities h4 {
     font-size: 14px;
     margin-top: 0;
     margin-left: 50px;
+    transition-duration: 0.5s;
 }
 
 .locations ul.popover,
@@ -62,6 +63,12 @@ section.filters .amenities h4 {
     padding-left: 50px;
     list-style: none;
     display: none;
+}
+
+.locations:hover ul.popover,
+.amenities:hover ul.popover {
+    display: block;
+    cursor: pointer;
 }
 
 .locations ul.popover ul {
